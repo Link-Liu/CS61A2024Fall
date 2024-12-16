@@ -1,0 +1,5 @@
+'num_eights-correct', (0, 66)
+'digit_distance-correct', (512, 66)
+'count_dollars-correct', (1024, 66)
+'count_dollars_upward-correct', (1536, 66)
+'move_stack-correct', (2048, 66)
